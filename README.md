@@ -5,7 +5,11 @@ This is a simple Python GUI application built using the Tkinter library. The pro
 Key Features
 =>
 
-https://github.com/user-attachments/assets/895d03da-87b6-4a5d-8173-02a66396c7e0
+
+
+https://github.com/user-attachments/assets/ef84673a-249e-412e-8d08-03c2ff95cd97
+
+
 
 User Input Fields – The form includes fields for:
 
@@ -37,9 +41,6 @@ Use Case
 This project is perfect for beginners learning:
 
 Python GUI development
-
-
-https://github.com/user-attachments/assets/68a69f01-91fa-4b9b-be95-e87185f21b52
 
 
 Event handling in Tkinter
